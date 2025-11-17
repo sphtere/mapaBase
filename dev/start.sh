@@ -51,5 +51,5 @@ chown -R www-data: docker-data/assets docker-data/logs docker-data/private-files
 
 docker compose run --service-ports mapas
 
-docker compose down
+docker compose down --remove-orphans
 cd $CDIR
