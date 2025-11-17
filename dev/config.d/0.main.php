@@ -8,6 +8,7 @@ return [
     
     'slim.debug' => true,
 
+    'themes.active' => 'MapasTeresopolis',
     'app.mode' => $_ENV['APP_MODE'],
 
     // deixe true somente se estiver trabalhando nos mapeamentos das entidades
