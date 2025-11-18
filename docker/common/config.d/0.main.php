@@ -1,5 +1,7 @@
 <?php 
 
+date_default_timezone_set('America/Sao_Paulo');
+
 return [
     'app.siteName' => 'Mapas Culturais Base Project',
     'app.siteDescription' => 'O Mapas Culturais é uma plataforma colaborativa que reúne informações sobre agentes, espaços, eventos, projetos culturais e oportunidades',
