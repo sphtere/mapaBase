@@ -1,5 +1,7 @@
 <?php
 
+use MapasCulturais\i;
+
 return [
     'module.LGPD' => [
         'termsOfUsage'=>[
